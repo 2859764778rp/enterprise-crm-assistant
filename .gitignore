@@ -1,0 +1,23 @@
+# 环境变量 / 密钥
+.env
+AI CRM/.env
+
+# 虚拟环境
+chat-bot.venv/
+AI CRM/chat-bot.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志
+*.log
+
+# Gradio 运行目录
+.gradio/
+
+# 大体积演示媒体（不入库）
+运行录屏.mp4
+
+# 运行时数据库
+AI CRM/data/crm.db

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "61cffe8e-5c97-4f45-bf31-d91a8d2fd3cf",
+    "text": "AI 工程师是当前需求量最大的技术岗位之一，涵盖机器学习工程师、算法工程师、数据科学家、AIGC 应用工程师等方向。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "864a27dc-fc47-4b28-a828-32bcbbc68aab",
+    "text": "转行做 AI 通常需要掌握 Python 编程、数学基础（线性代数、概率统计）、机器学习与深度学习框架（PyTorch/TensorFlow）。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "2d575b39-db71-480d-a0ff-408d428381c8",
+    "text": "一线城市 AI 算法工程师应届起薪普遍在 20-35 万/年，有 3-5 年经验的资深工程师年薪可达 50-100 万。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "03d46143-dfad-4248-8a86-f776d70075e7",
+    "text": "非科班背景转 AI 的可行路径：先补足编程与数学基础，再通过项目实战积累作品集，最后针对性投递岗位。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "5df1cf7a-8af5-4691-bad1-2c9134abd0b6",
+    "text": "AIGC 与大模型应用是近两年增长最快的方向，Prompt 工程、RAG、Agent 开发等技能需求旺盛。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "34984b78-593e-4b58-8302-733c32e509cd",
+    "text": "AI 工程师是当前需求量最大的技术岗位之一，涵盖机器学习工程师、算法工程师、数据科学家、AIGC 应用工程师等方向。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "06bc8386-84f9-455a-b7e0-2f1b63402591",
+    "text": "转行做 AI 通常需要掌握 Python 编程、数学基础（线性代数、概率统计）、机器学习与深度学习框架（PyTorch/TensorFlow）。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "60df9f29-bc88-4edb-879d-538c70f5a26b",
+    "text": "一线城市 AI 算法工程师应届起薪普遍在 20-35 万/年，有 3-5 年经验的资深工程师年薪可达 50-100 万。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "76c08e3b-ae30-4925-8e41-2b83f5972ed5",
+    "text": "非科班背景转 AI 的可行路径：先补足编程与数学基础，再通过项目实战积累作品集，最后针对性投递岗位。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "acb5bb7d-de87-4f13-8397-de5f7af2970b",
+    "text": "AIGC 与大模型应用是近两年增长最快的方向，Prompt 工程、RAG、Agent 开发等技能需求旺盛。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "318f0a8a-bdc6-4729-a067-15ce1f7cca0f",
+    "text": "大模型应用工程师的核心职责：基于开源或商用大模型开发 RAG 问答、Agent 工具调用与行业落地应用。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "bf4baa4c-2d75-4d66-a794-af57e46d6cd7",
+    "text": "RAG 工程师需要掌握文档解析、分块策略、向量检索、重排与评估，熟悉 Chroma、FAISS 等向量库。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "ea1ad899-dfe8-42d5-8d42-1e8032061462",
+    "text": "Agent 开发岗位要求熟悉 Function Calling、工具编排、多轮记忆与异常处理，具备系统设计能力。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "37b42760-b54e-42eb-9e31-d4cf095336df",
+    "text": "机器学习工程师岗位看重模型训练、特征工程与评估体系，熟悉 sklearn、LightGBM 等工具链。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "1e525508-495e-4ac5-98b1-6db0e862fa82",
+    "text": "算法工程师岗位以论文复现、模型优化与上线落地为主，要求扎实的数学与代码功底。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "29c8a22e-08cf-4d4c-8b6f-c613b34e9ee1",
+    "text": "数据科学家岗位侧重业务分析、AB 实验与指标体系，SQL 与 Python 为必备技能。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "2ead250c-c3a5-4d23-8004-6ff29d16d98a",
+    "text": "AI 产品经理岗位要求理解大模型能力边界，能定义 RAG/Agent 产品需求与评测标准。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "3fd29e40-a1b0-40a7-9ceb-200c953ca7a3",
+    "text": "AIGC 内容创作方向（文生文、文生图、视频生成）正在快速增长，相关工具链岗位需求旺盛。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "2f50edf4-6d1d-41e8-ac61-3c6f2f7c2682",
+    "text": "大模型部署工程师岗位要求掌握 vLLM、Ollama、Docker 与 GPU 集群管理，熟悉量化与推理优化。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "663f6855-92fb-4b6d-af07-8715678d395d",
+    "text": "据公开招聘数据，大模型应用方向岗位数量 2024-2026 年持续增长，一线城市需求占比最高。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "d6558f2e-5cd3-4235-a3b0-c1e99599cddc",
+    "text": "应届生从事大模型应用开发，一线城市起薪区间约 15-30 万/年，视公司与岗位而定。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "9c02b2f9-a61b-4410-afb0-1b61a13f48fe",
+    "text": "具备完整 RAG 项目经验是简历筛选的加分项，企业更看重项目中的量化评测与工程细节。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "d021637c-77a0-4ecd-bc8b-d1685bc0b829",
+    "text": "大模型方向社招岗位对 LangChain、Agent、微调经验的要求占比逐年上升。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "b78dcc8d-6702-4368-8c07-7fc08678fd3c",
+    "text": "带 AI 项目作品集的应届生在面试中通过率显著高于仅罗列课程经历的候选人。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "2876cc4d-1469-4027-b20d-84e217a301ca",
+    "text": "零基础转 AI 建议按四阶段规划：编程基础、机器学习、深度学习、大模型应用，每阶段配项目。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "b3dea86b-5b1c-4303-9bb4-2a962c0f5646",
+    "text": "在职转行建议利用晚间与周末学习，先完成一个端到端小项目再投递实习或初级岗位。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "513d1348-36e2-4a11-8e0b-19bd3e8438ba",
+    "text": "作品集建议包含 2-3 个完整项目：一个 RAG 应用、一个 Agent 应用、一个模型微调实验。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "e029d672-5761-441b-b7da-1a5b596010da",
+    "text": "面试准备重点：项目细节（数据、评测、失败案例）、算法基础、系统设计与大模型原理。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "ac91b600-a8f2-4c61-9630-3bfd48a12518",
+    "text": "转 AI 需要持续关注模型选型与成本分析，企业面试常问 Token 成本、并发与延迟的权衡。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "feaff3ec-b521-411a-9daa-0a8b63ddbb9e",
+    "text": "学习大模型应用建议先掌握 RAG 全链路，再深入 Agent 与微调，避免只学调用不学工程。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "742fad81-8794-4702-acb7-4efe3fac671f",
+    "text": "求职时间线建议：先完成项目与作品集，再准备简历与面试，最后集中投递，周期约 3-4 个月。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "8d30f54b-aaf8-4dca-9401-d6e3cc610aa9",
+    "text": "企业级大模型应用正从概念验证走向生产落地，RAG 与 Agent 是当前落地最广的两类形态。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "78db4c81-3914-450e-a11a-8fbdf8c98889",
+    "text": "RAG 解决企业知识检索与问答，Agent 解决多步骤任务自动化，两者常结合使用。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "8b15152b-c869-4020-b08a-b9f7a60f4d09",
+    "text": "模型微调在企业落地中的定位：风格对齐与领域适配，事实正确性仍依赖知识库与检索兜底。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "c5d62eaf-83ba-4a24-b1af-1dddb01f306b",
+    "text": "私有化部署需求增长，企业关注数据安全与推理成本，轻量模型 + 量化部署方案受欢迎。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "76a21c19-fa54-40c2-b851-8002a4829e15",
+    "text": "开源模型生态活跃，Qwen、DeepSeek 等中文模型在垂直领域微调与部署上成本优势明显。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "7db1e520-bfab-407f-9d02-15d2357e1024",
+    "text": "智能体（Agent）正从单工具调用走向多 Agent 协作，工程化能力成为岗位核心要求。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "5e551079-200a-409d-bed5-2e8f09251f08",
+    "text": "大模型评估（评测集、指标、回归）逐渐成为独立方向，企业需要会做评测的工程师。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "09e57e43-4538-4ee4-a29a-9e7360d548f6",
+    "text": "多模态大模型（图像、视频、语音）应用加速，相关技能需求在 2026 年明显上升。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "a567886f-1795-4f42-9123-a4b7238f21bb",
+    "text": "具身智能与大模型结合是前沿方向，但当前岗位以算法研究为主，对学历要求较高。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "3856bd85-7dfc-4dcc-933c-136464612e86",
+    "text": "AI 岗位职业路径分三条：算法研究、应用工程、产品与解决方案，应用工程门槛相对友好。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "f2420516-334f-4fff-b635-c3c5102df523",
+    "text": "应用工程方向的发展路径：初级工程师、高级工程师、技术专家或架构师，薪资随项目经验提升。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "7acf2291-3f11-47fb-a896-c5e8a523d08e",
+    "text": "面试中项目讲解建议按业务背景-核心工作-项目成果-技术栈四段式组织，突出量化结果。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "23072b10-b065-42dc-9a5c-08f32cffd13b",
+    "text": "简历上的项目数字（评测准确率、耗时、成本）要能讲清口径，面试官会追问测试集与评测方法。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "a85d8d1f-8a84-4c6f-9b9a-db8a35a2fd8f",
+    "text": "技术博客与开源贡献是加分项，能体现持续学习与技术热情。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "05d8657f-dab2-4ef9-a3f7-adea62cba297",
+    "text": "内推渠道是应届生投递的重要方式，参加技术社区与线下活动可积累人脉。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "4c72bcc5-a25f-4a15-b030-7ef5705c7352",
+    "text": "实习经历对校招价值高，实习中完整参与一个 AI 应用项目，面试时可深挖细节。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "508c9e10-649c-4022-a275-4f1f522e89d2",
+    "text": "应届生选择岗位时建议优先看项目方向与成长空间，第一份工作以积累完整项目经验为主。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "40a58c42-f611-47b7-9ce9-32a56dc00f5a",
+    "text": "一线城市（北上广深）AI 岗位多、薪资高，新一线城市（杭州、成都、南京等）增长快。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "e22dbe4f-1c03-4604-8577-fb7714eb9b75",
+    "text": "杭州、成都、武汉等城市大模型相关企业数量增长明显，生活成本低于一线城市。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "0de6d449-a1e3-40ac-97a8-ca9026e2f4bf",
+    "text": "投递渠道包括招聘平台、企业官网、内推与校招宣讲会，建议多渠道并行。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "71e4090d-cff0-4b6b-b18b-30bb4e9a058c",
+    "text": "面试中远程一面通常考察基础与项目，现场二面多考察系统设计与手写代码。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "e684b9fe-34f8-4d19-b972-e60f2f13a6b2",
+    "text": "拿到 offer 后建议确认薪资构成、试用期、五险一金与技术栈匹配度再决定。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "dd9cfe97-5a96-4f9c-915d-97271dcb3486",
+    "text": "官方文档是学习大模型应用的第一手资料，如 LangChain、Ollama、vLLM 与模型卡文档。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "7b66de7b-5e90-49ec-ad74-10a2c82d3b49",
+    "text": "开源课程与社区项目可用于练习，但简历项目建议做完整闭环（数据-开发-评测-部署）。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "15972737-9cc0-4a88-ab08-c4400a86ddf0",
+    "text": "Kaggle 与国内比赛平台可积累机器学习实战经验，但大模型岗位更看重应用项目。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "e9211bab-978e-4316-a667-8c09cc98e34f",
+    "text": "参加技术分享会与直播课可快速了解行业实践，建议带着具体问题参与交流。",
+    "meta": {
+      "source": "market_kb"
+    }
+  },
+  {
+    "id": "205e9ef3-60f0-4054-adaa-919b37fae7ec",
+    "text": "学习建议以项目驱动：先定一个业务场景（如客服问答、知识检索），再逐步补齐技术栈。",
+    "meta": {
+      "source": "market_kb"
+    }
+  }
+]
